@@ -53,8 +53,8 @@ I'm a passionate software engineer with a strong foundation in full-stack web de
 
 ## 📈 GitHub Stats
 
-![Daniyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniyalyahya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalyahya&layout=compact&theme=radical)
+![Daniyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniyalyk&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalyk&layout=compact&theme=radical)
 
 ---
 
